@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scipy
+textblob
+nltk
+wordcloud
+google-generativeai
