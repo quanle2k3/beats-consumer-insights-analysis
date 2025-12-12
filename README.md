@@ -44,8 +44,8 @@ Based on the data, the following strategies were proposed:
 3.  **Marketing Pivot:** Leverage the high "brand coolness" factor in campaigns but pivot messaging to emphasize durability and battery life improvements.
 
 ## 📂 Project Structure
-*   `code/`: The complete Jupyter Notebook containing code, visualizations, and analysis.
-*   `data/`: Dataset used for analysis.
+*   `code/Beats_by_Dre_Consumer_Insights_Capstone_Project.ipynb`: The complete Jupyter Notebook containing code, visualizations, and analysis.
+*   `data/reference_dataset_for_beats_externship.csv`: Dataset used for analysis.
 
 ---
 *Author: LE Minh Quan*
